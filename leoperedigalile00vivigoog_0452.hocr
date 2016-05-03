@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leoperedigalile00vivigoog_0452.png"; bbox 0 0 4117 5809; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 924 2430 1118 2521">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 924 2430 1118 2521">
+     <span class='ocr_line' id='line_1_1' title="bbox 924 2430 1118 2521; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 924 2430 1118 2521; x_wconf 88' lang='grc' dir='ltr'>ΝΟΤΕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 611 2696 1426 2815">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 611 2696 1426 2815">
+     <span class='ocr_line' id='line_1_2' title="bbox 611 2696 1426 2815; baseline 0.001 -7"><span class='ocrx_word' id='word_1_2' title='bbox 611 2696 788 2810; x_wconf 80' lang='lat' dir='ltr'><strong>ALLA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 827 2700 982 2810; x_wconf 81' lang='lat' dir='ltr'>VITA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1023 2704 1091 2811; x_wconf 84' lang='lat' dir='ltr'><strong>DI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1130 2703 1426 2815; x_wconf 81' lang='lat' dir='ltr'><strong>GALILEO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 784 2994 1248 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 784 2994 1248 3063">
+     <span class='ocr_line' id='line_1_3' title="bbox 784 2994 1248 3063; baseline -0.002 -6"><span class='ocrx_word' id='word_1_6' title='bbox 784 2994 959 3060; x_wconf 73' lang='lat' dir='ltr'><strong>scium</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 976 2996 1059 3060; x_wconf 79' lang='lat' dir='ltr'><strong>DAL</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1080 2996 1248 3063; x_wconf 71' lang='lat' dir='ltr'>vwlAM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2064 5809">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2064 5809">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2064 5809; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2064 5809; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
